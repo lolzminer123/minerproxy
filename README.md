@@ -1,5 +1,5 @@
 # submitonlyhighsharesproxy
-submit high shares only skip low shares written in python all you need todo is download it extract file, run python3 -m pip install -r requirements then run python3 highshare.py
+submit high shares only skip low shares written in python all you need todo is download it extract file, run python3 -m pip install -r requirements.txt then run python3 submit-highshares.py
 input your pool address like stratum://k1pool.com port is ur miners port to pool
 input ur miner address with worker name thats it and hit run
 This is working with latest miner software like gminer , lolminer,nbminer & trex miner
