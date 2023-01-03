@@ -15,6 +15,12 @@ todo
 add low share option incase a user wants low shares solo or both shares solo
 fyi works on shared or solo, solo is best :)
 
+just added discord feature for notifications,
+just add your disocrd username with hashtags for notifications when block is found.
+
+if ur av detects abnormal its ot bcuz its a modified .exe file so add turn of av go to add acception then re-enable ur av
+some avs i have tested and nothing apart from 1 only bcuz its a modified .exe
+
 tested on
 k1pool
 2miners
