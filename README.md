@@ -12,13 +12,13 @@ please install python 10 upwards not sur if works on python 11 but may do but ma
 
 todo
 
-add low share option incase a user wnats low shares solo or both shares solo
+add low share option incase a user wants low shares solo or both shares solo
+fyi works on shared or solo, solo is best :)
 
 tested on
-
 k1pool
 2miners
-
+solopool
 software used
 
 gminer
@@ -32,5 +32,4 @@ can be edited to run through nicehash if u no how
 todo
 
 clean the code up for alot smoother exprience
-inout own gui better display
-connect to nicehash or nicehahs through proxy to pool.
+create a better gui
