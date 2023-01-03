@@ -6,6 +6,7 @@ This is working with latest miner software like gminer , lolminer,nbminer & trex
 the url and port from the largehash will need to be input into ur gminer in address and port and then the shares will be forwarded to ur pool,
 the ping is very low when i tested it it was 12ms 14ms on 2miners depending on what country your from.
 
+works on all windows
 
 please install python 10 upwards not sur if works on python 11 but may do but make sure u install requirements first otherwise proxy will fail
 
