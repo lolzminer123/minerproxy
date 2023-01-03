@@ -9,7 +9,7 @@ the ping is very low when i tested it it was 12ms 14ms on 2miners depending on w
 works on all windows
 
 please install python 10 upwards not sur if works on python 11 but may do but make sure u install requirements first otherwise proxy will fail
-
+i have inlcuded a prebuilt .exe ready for launch . right click run as administrator.
 todo
 
 add low share option incase a user wants low shares solo or both shares solo
