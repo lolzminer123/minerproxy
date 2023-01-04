@@ -7,19 +7,19 @@ the url and port from the largehash will need to be input into ur gminer in addr
 the ping is very low when i tested it it was 12ms 14ms on 2miners depending on what country your from.
 
 works on all windows
+Disable Antivirus windows secruity antivirus  download with internet explorer not chrome! before u proceed !  after installation
 
-please install python 10 upwards not sur if works on python 11 but may do but make sure u install requirements first otherwise proxy will fail
-i have inlcuded a prebuilt .exe ready for launch . right click run as administrator.
-todo
+please install python 10 upwards this can be downloaded from microsoft store or from https://www.python.org/downloads/release/python-3100/ not sure if works on python 11 but may do but make sure u install requirements first otherwise proxy will fail
+i have inlcuded a prebuilt .exe with updater ready for launch . right click run as administrator.
 
-add low share option incase a user wants low shares solo or both shares solo
+added low share option incase a user wants low shares solo or both shares solo
 fyi works on shared or solo, solo is best :)
 
 just added discord feature for notifications,
 just add your discord username/handle with hashtags for notifications when block is found. and to alert when miner goes offline
 and largest share found.
 
-if ur av detects abnormal when downloading its bcuz its a modified .exe file so turn of av go to add acception then re-enable ur av
+if ur av detects abnormal when downloading its bcuz its a modified .exe file so turn of av go to add acception click python file or the exe then re-enable ur av
 some avs i have tested and nothing apart from 1 only bcuz its a modified .exe i found out today that the .exe needs to be signed a verified certificate and this will stop the antivirus alert which i will get done next week sometime.
 
 added more updates you can download from mega launch the updateproxy then launche largeproxy
