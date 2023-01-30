@@ -1,3 +1,5 @@
+downloaded load latest https://github.com/lolzminer123/minerproxy/releases/tag/proxyminer
+
 # submitonlyhighsharesproxy
 submit high shares only skip low shares written in python all you need todo is download it extract file, open cmd terminal run python3 -m pip install -r requirements.txt then run python3 submit-highshares.py or launch the .exe compiled with visual studio 2022
 input your pool address like stratum://k1pool.com port is ur miners port to pool
